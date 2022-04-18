@@ -1,0 +1,2 @@
+bug 1: No puede leer archivos con caracteres en japones
+bug 2: El boton al cambiar de color, no se cambia al deseado
